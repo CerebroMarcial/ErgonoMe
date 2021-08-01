@@ -10,8 +10,6 @@ Ergonomia inteligente para os que pensam na saúde e conforto do seu desktop.
 
 > [Ir para a apresentação completa do modelo de negócio](https://www.youtube.com/channel/UC8CDa-kB38Pfzai1C1sc0jA "Ir para ")
 
-![](https://cdn.discordapp.com/attachments/866464902898384907/868626927970320414/logo_naice.png)
-
 # TODO
 
 # Criar um time onde cada um tem uma especialidade 
@@ -120,10 +118,7 @@ Quais os planos futuros que ainda não podem ser alcançados e qual o motivo de 
     - [ ] Saber o que mostrar (diferencial competitivo)
  
 - [ ] ##Apresentação dos slides
-    - [x] Link criado
-    
-- [ ] ##Repositório
-  - [x] Criar repositório
+    - [ ] Link criado  
   
 - [ ] ##Link da solução
   - [ ] Criado
@@ -227,11 +222,6 @@ Você está ciente de todos os riscos nos primeiros estágios e decide por si me
 # 3. Controle:
 você não terá surpresas desagradáveis que podem vir de um antecessor: um empréstimo bancário, problemas de aluguel ou funcionários ineficazes.
 
-# Como criar uma Startup do zero: 8 etapas principais
-
-# Determine o seu valor
-Faça uma lista do que você faz de melhor ou do que gosta de fazer.
-
 # Como iniciar uma startup sem dinheiro? 
 Pense no conhecimento e nas habilidades que você ainda não usou, mas que pode potencialmente monetizar. 
 - [ ] Habilidade de explicar claramente tópicos relacionados ao produto.
@@ -326,7 +316,7 @@ Analise os resultados e dimensione o seu negócio
 - [ ] Pergunte como estão os seus concorrentes e se outras startups apareceram no seu nicho. Talvez seja hora de lançar um novo produto, reformular o USP ou alterar sua estratégia de marketing.
 
 # Ao iniciar uma startup do zero, o principal é realizar uma análise preliminar cuidadosa: 
-- [ ] escolher um nicho,
-- [ ] formular uma USP 
-- [ ] fazer um plano de negócios.
+- [ ] Escolher um nicho,
+- [ ] Formular uma USP 
+- [ ] Fazer um plano de negócios.
 Essas tarefas podem levar mais de uma semana, mas aumentam muito as chances de sucesso.
