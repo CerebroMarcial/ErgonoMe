@@ -12,6 +12,23 @@ Ergonomia inteligente para os que pensam na saúde e conforto do seu desktop.
 
 # TODO
 
+# Complete a identidade da sua marca 
+- [ ] Crie uma logo 
+- [ ] Coloque as logos em uma parte específica do repositório
+- [ ] Verificar se o domínio ErgonoMe.com está disponível
+- [ ] Abrir uma conta de email comercial 
+- [ ] Configurar seu cartâo digital 
+
+# Criar o seu site 
+- [ ] Crie seu site 
+- [ ] Conecte seu site ao seu domínio 
+- [ ] Listar negócio no google
+
+# Preparando para encontrar clientes e investidores
+- [ ] Encomende cartões de visita
+- [ ] Encomende seus cartões personalizados
+- [ ] Baixe o arquivo vetorizado para impressão
+
 # Criar um time onde cada um tem uma especialidade 
 - [x] Negócios : Leandro Ramalho
 - [x] UX : Leandro Ramalho
