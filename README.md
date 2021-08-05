@@ -30,8 +30,8 @@ Ergonomia inteligente para os que pensam na saúde e conforto do seu desktop.
 - [ ] Baixe o arquivo vetorizado para impressão
 
 # Criar um time onde cada um tem uma especialidade 
-- [X] Negócios : Leandro Ramalho
-- [X] UX : Leandro Ramalho
+- [ X ] Negócios : Leandro Ramalho
+- [ x ] UX : Leandro Ramalho
 - [X] Desenvolvimento : Leandro Ramalho
 
 # Analizar o usuário
